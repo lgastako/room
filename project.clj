@@ -1,5 +1,5 @@
 (defproject room "0.0.1-SNAPSHOT"
-  :description "FIXME: write description"
+  :description "turn any device into a window to a virtual room"
   :dependencies [[org.clojure/clojure "1.7.0"]]
   :source-paths ["src/clojure"]
   :java-source-paths ["src/java"]
